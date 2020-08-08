@@ -31,7 +31,11 @@ DataBindings  不用解释，肯定是指View和ViewModel的绑定了。一般�
 
 - 上图中，View和ViewModel之间用的是虚线的箭头相连，这表明View和ViewModel没有直接的引用关系，他们各自对于另一方都是透明的。View和ViewModel是在Controller的控制下通过Binding机制绑定在一起，从而协同工作的。
 
+## 快速上手实现
 
+https://www.jianshu.com/p/883027ed4f94
 
+GitHub源地址：
 
+https://github.com/goldze/MVVMHabit
 
